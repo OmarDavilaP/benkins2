@@ -2,9 +2,7 @@ module.exports={
     ssh:[{
             host: 'alpctssweba63v.corporate.ge.com',
             port: 22,
-            username: 'beneuoq2',
-            //privateKey: '/Users/omardavila/.ssh/id_rsa',
-            password: 'Uoq2Stg',
+            privateKey: '/Users/omardavila/.ssh/id_rsa',
         }],
     app:[{
             gitPath:'/Users/omardavila/GE_CONFIDENTIALS/ONEHR/BRANCHS/onehr-testing/onehr-5.18.x/',
