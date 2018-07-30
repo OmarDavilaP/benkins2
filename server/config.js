@@ -1,6 +1,6 @@
 module.exports={
     ssh:[{
-            host: 'alpctssweba63v.corporate.ge.com',
+            host: '',
             port: 22,
             privateKey: '/Users/omardavila/.ssh/id_rsa',
         }],
